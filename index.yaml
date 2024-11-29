@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  silmara-senhas-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-11-29T11:44:56.47783728-03:00"
+    description: Gerador de senhas criado LinuxTips.
+    digest: 689e635ce8899f9b173e7af372c3212dbb92a44babb90305d599299c62b63675
+    name: silmara-senhas-app
+    sources:
+    - https://github.com/silmarasilva/helm-chart-senhas-app.git
+    urls:
+    - https://github.com/silmarasilva/helm-chart-senhas-app.git/silmara-senhas-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-29T11:44:56.476881367-03:00"
