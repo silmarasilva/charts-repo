@@ -1,0 +1,3 @@
+[submodule "charts/silmara-senhas-chart"]
+	path = charts/silmara-senhas-chart
+	url = https://github.com/silmarasilva/charts-repo.git
